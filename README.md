@@ -1,2 +1,2 @@
 # AIOU-Internship
-Cybersecurity Intern at AIOU.
+Cybersecurity Internship at Allama Iqbal Open University.
